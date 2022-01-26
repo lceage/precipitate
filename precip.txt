@@ -1,0 +1,1 @@
+Precipitation indludes rain and snow.
