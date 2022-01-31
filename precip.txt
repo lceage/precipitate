@@ -2,3 +2,4 @@ Precipitation comes in many forms.
 Rain: Liquid droplets that fall from the sky.
 Freezing Rain: Supercooled droplets that freeze on contact
 Sleet: Ice from melted snow that refroze
+Snow: Ice crystals falling from the sky
